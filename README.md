@@ -2,6 +2,15 @@
 
 This project visualizes the Sierpinski Triangle using the chaos game algorithm with Python's `turtle` graphics. You can customize the appearance and behavior or use default settings for quick plotting.
 
+## Sample Drawings
+
+Below are three sample drawings created using this code.  
+You can find these images in the `sample_drawings` folder.
+
+| Sample 1                                  | Sample 2                                  | Sample 3                                  |
+| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| ![Sample 1](sample_drawings/drawing1.png) | ![Sample 2](sample_drawings/drawing2.png) | ![Sample 3](sample_drawings/drawing3.png) |
+
 ## Features
 
 - Draws an equilateral triangle and plots points using the chaos game.
@@ -54,15 +63,6 @@ Enter triangle height (default 400): 300
 Enter text if you want to plot text (leave blank for dot): *
 Should we randomize the character on the text (Y/N)? N
 ```
-
-## Sample Drawings
-
-Below are three sample drawings created using this code.  
-You can find these images in the `sample_drawings` folder.
-
-| Sample 1                                  | Sample 2                                  | Sample 3                                  |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![Sample 1](sample_drawings/drawing1.png) | ![Sample 2](sample_drawings/drawing2.png) | ![Sample 3](sample_drawings/drawing3.png) |
 
 ## File Structure
 
