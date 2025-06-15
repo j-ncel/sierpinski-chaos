@@ -1,3 +1,7 @@
+<a href="https://coff.ee/jncel">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" height="" alt="Buy Me a Coffee">
+</a>
+
 # Sierpinski Triangle Chaos Game Visualization
 
 This project visualizes the Sierpinski Triangle using the chaos game algorithm with Python's `turtle` graphics. You can customize the appearance and behavior or use default settings for quick plotting.
