@@ -26,11 +26,6 @@ You can find these images in the `sample_drawings` folder.
   - Triangle height
   - Plotting text instead of dots (with optional random character selection)
 
-## Requirements
-
-- Python 3.x
-- Standard library only (`turtle` and `random`)
-
 ## Usage
 
 1. **Run the script:**
@@ -50,7 +45,8 @@ You can find these images in the `sample_drawings` folder.
    - Plot speed (`0` is fastest)
    - Dot count (number of points to plot)
    - Triangle height (size of the triangle)
-   - Optional: Text to plot instead of dots, and whether to randomize characters
+   - Optional: Text to plot instead of dots, and whether to randomize characters.
+   - Suggestion: Try to plot 💫 , 🌟 or your fav emojis!
 
 4. **View the result:**
    - The turtle graphics window will display the Sierpinski Triangle.
